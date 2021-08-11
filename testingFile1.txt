@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Add a new line to file 1.
+=======
+
+
+This a new test 1.
+I am adding new lines here.
+>>>>>>> f41eee9074aea10a3b26e75fbd69fd5b680afb52
